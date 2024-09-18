@@ -1,0 +1,113 @@
+				Syllabus for Java Backend Developer
+				<------------------------------------>
+1.Core Java/J2SE:
+--------------->
+
+Unit 1:	
+------				
+-> Language fundamental(Done)
+-> Introduction(Done)
+-> Indentifier(Done)
+-> Data type(Done)
+-> Variable(imp)(done)
+-> Control flow(Done)
+-> Operators(Done)
+-> Keywords(Done)
+	->53 keywords(48 are used and 2 are goto, const and 3 are literals)
+	->data type releted keywords(8)	
+		->byte, short, int, long, float, double, char, boolean.
+	->control flow related keywords(11)
+		->if, else, switch, case, default, while, do, for, break, continue, return.
+	->object related keywords(4)
+		->new, instanceOf, super, this, enum
+	->return type keyword(1)
+		->void
+	->exception related keyword(6)
+		->try, catch, finally, throw, throws, assert
+	->class related keyword(6)
+		->class, interface, extends, implements, package, import
+	->access modifier keywords(3)
+		->public, private, protected
+	->non-access modifier related keywords(8)
+		->static, final, abstract, synchronized, native, strictfp, transient, volatile.
+Total=8+11+4+1+6+6+3+8+1=48
+-> Order of execution of Program in java(Imp)(Done)
+->JDK, JRE and JVM(Done)
+
+
+Unit 2:
+------
+-> Array
+-> String (imp)
+-> Method
+-> Type casting
+-> Wrapper class
+-> Object class
+-> Math class
+
+Unit 3:
+------
+-> Class(Done)
+-> Object(Done)
+-> Constructor(Done)
+-> Inheritence(Done)
+-> Polymorphims(Done)
+-> Abstraction(Done)
+-> Encapsulation(Done)
+
+Unit 4:
+------
+-> Access modifier
+-> Super keyword
+-> Final Keyword
+-> Static Keyword
+-> This keyword
+-> Package
+
+Unit 5:
+------
+-> Exception handling
+-> Multi-threading
+-> I/O
+-> Collection
+-> Map
+-> JDK 8
+
+
+Advance Java/J2EE
+---------------->
+-> Servlet
+-> JSP
+-> JDBC
+
+
+Technologies/Framework
+--------------------->
+Spring Framework
+-> Spring core
+-> Spring jdbc
+-> Spring ORM
+-> Spring MVC
+-> Spring security
+-> Spring Data JPA
+-> Hibernate
+
+-> Spring Boot
+-> Spring Rest/RESTFull Webservices/Rest Api/RESTFull
+-> Microserices
+
+Tools
+-----
+Git
+maven
+JIRA
+JUnit
+Mockito
+PowerMockito
+LOG4J
+Putty
+FileZilla
+WinSCP
+
+
+
