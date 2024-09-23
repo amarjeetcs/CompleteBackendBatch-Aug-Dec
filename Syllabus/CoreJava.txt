@@ -39,11 +39,11 @@ Unit 2:
 ------
 -> Array(Done)  
 -> String (imp)
--> Method
--> Type casting
--> Wrapper class
--> Object class
--> Math class
+-> Method & its nature(Done)
+-> Type casting(Done)
+-> Wrapper class(Done)
+-> Object class(Done)
+-> Math class(Done)
 
 Unit 3:
 ------
