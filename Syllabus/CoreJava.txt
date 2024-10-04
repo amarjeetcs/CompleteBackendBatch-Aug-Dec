@@ -33,6 +33,7 @@ Unit 1:
 Total=8+11+4+1+6+6+3+8+1=48
 -> Order of execution of Program in java(Imp)(Done)
 ->JDK, JRE and JVM(Done)
+->Command Line Arguments
 
 
 Unit 2:
@@ -61,8 +62,8 @@ Unit 4:
 -> Super keyword(Done)
 -> Final Keyword(Done)
 -> Static Keyword(Done)
--> This keyword(Done)
--> Package(Done)
+-> This keyword(Done)					
+-> Package(Done)                
 
 Unit 5:
 ------
@@ -71,7 +72,7 @@ Unit 5:
 -> I/O
 -> Collection
 -> Map
--> JDK 8
+-> JDK 8(lamda expression, functional inteface, optional class, stream api, method reference, data and time api) ets
 
 
 Advance Java/J2EE
@@ -79,7 +80,6 @@ Advance Java/J2EE
 -> Servlet
 -> JSP
 -> JDBC
-
 
 Technologies/Framework
 --------------------->
@@ -99,7 +99,7 @@ Spring Framework
 Tools
 -----
 Git
-maven
+Maven
 JIRA
 JUnit
 Mockito
@@ -108,6 +108,9 @@ LOG4J
 Putty
 FileZilla
 WinSCP
-
+Swagger
+Postman
+Docker
+Jenkins
 
 
